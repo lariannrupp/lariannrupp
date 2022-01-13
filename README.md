@@ -17,7 +17,7 @@
 
 ---
 
-# Just for fun:
+# Blurb:
 A `print` function in Python displays the text or variable passed in the function as output:
 
 ```python
