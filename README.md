@@ -13,7 +13,7 @@
 
 ![Dead inside, but still typing...](https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/271837455_7522285717796749_2973224040537181180_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=c0ishYm5DfgAX8_BO2y&tn=11yzkT0fcMSzLd8Q&_nc_ht=scontent-sea1-1.xx&oh=00_AT-1wbf7C5o7nApsa6dZx_K8kAhY4kb4E0a5dPchaXC4KQ&oe=61E42257)
 
-> "Peace in Our lifetimes."
+> "Peace in 0ur lifetimes."
 
 ---
 
