@@ -4,9 +4,9 @@
 💞️ I’m available for hire!
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lari-rupp-5baa49153/)
 
-### Welcome to my repository of FinTech projects!
----
+# Welcome to my repository of FinTech projects!
 **Please explore the codebase**
+---
 
 # About Me:
 *My name is Lari Rupp, and I am living in Oregon. I have spent most of my career as a "General Engineer", specializing in mechanical, electrical,  plumbing, and structural disciplines. I have a lifelong fascination with Data Science, so I am currently in the middle of a 6-month coding bootcamp for Python and a smattering of other Financial Technology softwares. My Linkedin inbox is always open to anyone who would like to collaborate!*
