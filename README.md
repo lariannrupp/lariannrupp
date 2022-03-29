@@ -1,5 +1,8 @@
 # Welcome to my repository of FinTech projects
 
+![MaxPixel net-Trees-God-Rays-Nature-Landscape-Light-Forest-Rays-4395991](https://user-images.githubusercontent.com/95719899/160695099-2d453702-8b84-4bd8-a390-ba8df458b09d.jpg)
+
+
 ---
 
 Lari-Ann Rupp is an Advanced Building Sciences Data Engineer from a background in large-scale commercial construction technology. 
@@ -22,4 +25,3 @@ Believer of peace in our lifetimes.
 
 
 
-![MaxPixel net-Trees-God-Rays-Nature-Landscape-Light-Forest-Rays-4395991](https://user-images.githubusercontent.com/95719899/160695099-2d453702-8b84-4bd8-a390-ba8df458b09d.jpg)
