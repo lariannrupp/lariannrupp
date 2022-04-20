@@ -5,12 +5,12 @@
 
 ---
 
-Lari-Ann Rupp is an Advanced Building Sciences Data Engineer from a background in large-scale commercial construction technology. 
+Lari-Ann Rupp is a Building Sciences Data Engineer from a background in large-scale commercial construction technology. 
 
 ---
 
 
-Service-minded citizen and lifelong Rotarian who is earning a certificate in Financial Technology from the University of California Berkeley Extension to advance my skills in IT development, machine-learning model tuning, and predictive analysis. 
+Service-minded citizen and lifelong Rotarian who is earning a certificate in Financial Technology from the University of California Berkeley Extension to advance my skills in IT development, agile project management, machine-learning model tuning, and predictive analysis. 
 
 Prior experience includes over $500 million in project valuation with diverse management teams that oversee the full construction lifecycle in both field and office for clients that include University of Colorado Health, Lockheed Martin Space, The City of Salt Lake, and Hyatt Hotels Corporation. 
 
