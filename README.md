@@ -21,7 +21,7 @@ Believer of peace in our lifetimes.
 ---
 
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lari-rupp-5baa49153/)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lari-rupp-5baa49153/), email: lari.ann.rupp@gmail.com
 
 
 
